@@ -1,0 +1,4 @@
+A sample project which shows XML-less Spring MVC setup.
+
+This is intented to spawn a Maven archetype using
+archetype:create-from-project.

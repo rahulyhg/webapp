@@ -1,0 +1,1 @@
+{"tagline":"A sample project about setting up Spring MVC + Maven","note":"Don't delete this file! It's used internally to help with page regeneration.","body":"A sample project which shows XML-less Spring MVC setup.\r\n\r\nThis is intented to spawn a Maven archetype using\r\narchetype:create-from-project.\r\n","name":"Webapp","google":""}
